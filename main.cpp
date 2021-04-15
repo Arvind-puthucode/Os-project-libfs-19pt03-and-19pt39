@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-#include "LibFS.h"
+#include "LibFS.cpp"
+#include "LibDisk.cpp"
 
 #define block_size 512
 void 
